@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mini projet</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">580184295892443</string>
+    <string name="fb_login_protocol_scheme">fb580184295892443</string>
+
+</resources>
